@@ -2,17 +2,14 @@
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
-
-A simple and responsive cards component with html and css using css grid.
-
 ## 🎈 Overview
 
-- **Purpose**: Practice responsive design and CSS basics.
+- **Purpose**: Practice responsive design and CSS grid.
 - **Technologies**: HTML, CSS
 
 ## 👀 Preview
 
-[Live Demo](https://www.notion.so/%5B%3Chttps://your-live-demo-link.com/%3E%5D(%3Chttps://moein-creator-ops.github.io/qr-code-component/%3E))
+[Live Demo](https://moein-creator-ops.github.io/Four-card-feature-section/)
 
 ## 💖 Credits
 
